@@ -1,3 +1,2 @@
-This File is now Updated.
-I am learning Git.
-This is my Second Comit 
+This update was made inside the feature-readme- updatebrach.
+Laerning Git Branching us Fun!
